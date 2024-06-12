@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"UUno 1",1," Arduino Uno R3"
+"SEN1",1," Soil Moisture Sensor"
+"M1",1," DC Motor"
+"D2",1,"Green LED"
+"R1",1,"330 Ω Resistor"
+"K2",1," Relay SPDT"
+"P1",1,"5 , 5  Power Supply"
